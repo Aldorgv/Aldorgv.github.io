@@ -36,7 +36,7 @@ plugins:
 
 remote_theme: ngzhio/jekyll-theme-hamilton
 skin: midnight
-site.avatar: logo.png
+avatar: logo.png
 
 # Exclude from processing.
 # The following items will not be processed, by default.
