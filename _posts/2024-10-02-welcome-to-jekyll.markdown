@@ -4,7 +4,11 @@ title:  "Welcome to Jekyll!"
 date:   2024-10-02 09:29:36 -0700
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+La invención de lenguajes orientados a objetos y el desarrollo de metodologías y técnicas
+con este mismo enfoque promueven la evolución de toda un área dentro de la ingeniería de
+software. La meta del paradigma orientado a objetos es crear software reduciendo tiempos
+de entrega, facilitar la incorporación del cambio en un producto de software y reutilizar
+componentes de una biblioteca conformada por éstos. 
 
 Jekyll requires blog post files to be named according to the following format:
 
